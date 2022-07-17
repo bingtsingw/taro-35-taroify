@@ -1,5 +1,7 @@
 import { Component } from 'react'
 import './app.css'
+import '@taroify/icons/index.scss';
+import '@taroify/core/index.scss';
 
 class App extends Component {
 
